@@ -3,4 +3,6 @@
     <string name="activity_1">ACTIVITY#1</string>
     <string name="description">By clicking on the button NEXT, you will go to the next activity! This is the concept of INTENTS!</string>
     <string name="next">NEXT</string>
+    <string name="this_is_our_second_activity">This is our second activity</string>
+    <string name="activity_2">ACTIVITY # 2</string>
 </resources>
